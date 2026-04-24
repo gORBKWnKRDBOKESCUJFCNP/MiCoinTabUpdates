@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "5",
+  "versionCode": 6,
+  "versionName": "6",
   "apkUrl": "https://raw.githubusercontent.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/main/MiCoinTab.apk",
-  "changelog": "OTA and Auto Off Restricted Apps when Service is currently stopped."
+  "changelog": "Deep Freeze it can now auto delete files and images every no more time. OTA and Auto Off Restricted Apps when Service is currently stopped."
 }
