@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "8",
+  "versionCode": 9,
+  "versionName": "9",
   "apkUrl": "https://raw.githubusercontent.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/main/MiCoinTab.apk",
   "changelog": "OTA and Auto Off Restricted Apps when Service is currently stopped."
 }
