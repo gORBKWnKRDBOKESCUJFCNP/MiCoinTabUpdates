@@ -2,5 +2,5 @@
   "versionCode": 9,
   "versionName": "9",
   "apkUrl": "https://raw.githubusercontent.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/main/MiCoinTab.apk",
-  "changelog": "OTA and Auto Off Restricted Apps when Service is currently stopped."
+  "changelog": "Automatic kiosk mode when service is running. This provides security for the device so that Settings can only be modified by the owner."
 }
