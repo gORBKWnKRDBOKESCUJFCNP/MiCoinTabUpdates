@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "10",
+  "versionCode": 11,
+  "versionName": "11",
   "apkUrl": "https://raw.githubusercontent.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/main/MiCoinTab.apk",
-  "changelog": "Automatic kiosk mode when service is running. This provides security for the device so that Settings can only be modified by the owner."
+  "changelog": "Battery Indicator on upper right corner for Battery Monitoring... "
 }
