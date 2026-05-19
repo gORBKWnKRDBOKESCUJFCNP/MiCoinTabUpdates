@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "11",
+  "versionCode": 12,
+  "versionName": "12",
   "apkUrl": "https://raw.githubusercontent.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/main/MiCoinTab.apk",
-  "changelog": "Bug fix under observations"
+  "changelog": "Finally Bug fixed - Autostop service and auto delete license is already fixed."
 }
