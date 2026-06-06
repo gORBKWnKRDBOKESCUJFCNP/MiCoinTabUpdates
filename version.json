@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "14",
+  "versionCode": 15,
+  "versionName": "15",
   "apkUrl": "https://raw.githubusercontent.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/main/MiCoinTab.apk",
-  "changelog": "Beta bug fixed for the sudden stop service but when click super admin it restores is now fixed."
+  "changelog": "Added Icon for faster selection of apps in Add, Remove, Restricted, and AutoClear Data Apps"
 }
