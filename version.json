@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "15",
+  "versionCode": 16,
+  "versionName": "16",
   "apkUrl": "https://raw.githubusercontent.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/main/MiCoinTab.apk",
-  "changelog": "Added Icon for faster selection of apps in Add, Remove, Restricted, and AutoClear Data Apps"
+  "changelog": "The app now supports Smart Charging.\n\nNote: Please contact your builder if you want to upgrade. Upgrade fees may apply, depending on the builder from whom you purchased the unit."
 }
