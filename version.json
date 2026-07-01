@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "19",
-  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v19/MiCoinTab.apk",
-  "changelog": "Added a Remote Support, allow us to setup and troubleshooting across the country."
+  "versionCode": 20,
+  "versionName": "20",
+  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v20/MiCoinTab.apk",
+  "changelog": "Remote Support can now be access by triple tapping the Title text. We also added battery saver when no ones playing."
 }
