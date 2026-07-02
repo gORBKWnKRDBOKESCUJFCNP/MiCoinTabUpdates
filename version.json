@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "20",
-  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v20/MiCoinTab.apk",
-  "changelog": "Remote Support can now be access by triple tapping the Title text. We also added battery saver when no ones playing."
+  "versionCode": 21,
+  "versionName": "21",
+  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v21/MiCoinTab.apk",
+  "changelog": "Bug fixed - issue players have difficulty turning ON the screen when screen off in floating controls is tapped.\nSolution we use double tap to turning ON the screen."
 }
