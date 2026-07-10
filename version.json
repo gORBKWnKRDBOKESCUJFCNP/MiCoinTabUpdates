@@ -2,5 +2,5 @@
   "versionCode": 23,
   "versionName": "22.2",
   "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v22.2Final/MiCoinTabv22.2.apk",
-  "changelog": "Please update"
+  "changelog": "Added a Clear Recent History in Floating Control and also automatically Clear Recenty History while in Insert Coin mode"
 }
