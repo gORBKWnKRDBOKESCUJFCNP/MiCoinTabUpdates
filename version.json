@@ -1,6 +1,6 @@
 {
-  "versionCode": 7112026,
-  "versionName": "22.4",
-  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v22.4/MiCoinTabv22.4.apk",
-  "changelog": "Added a Clear Recent History in Floating Control and also automatically Clear Recenty History while in Insert Coin mode"
+  "versionCode": 7122026,
+  "versionName": "22.5",
+  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v22.5/MiCoinTabv22.5.apk",
+  "changelog": "Bugs fixed (Under Observation) - sudden off of smart charging when idle..."
 }
