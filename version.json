@@ -1,6 +1,6 @@
 {
-  "versionCode": 8192026,
-  "versionName": "22.8.6",
-  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v22.8.6/MiCoinTabv22.8.6-.apk",
-  "changelog": "Much more reliable debugging...\n\nSmart Charging can now be changeable pin assignments."
+  "versionCode": 8232026,
+  "versionName": "22.8.7",
+  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v22.8.7/MiCoinTabv22.8.7.apk",
+  "changelog": "No need to update if you are not using Smart Charging Custom Board."
 }
