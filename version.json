@@ -1,6 +1,6 @@
 {
-  "versionCode": 8282026,
-  "versionName": "22.9.2",
-  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v22.9.2/MiCoinTabv22.9.2.apk",
-  "changelog": "Blocked by work policy when opening the apps is patched"
+  "versionCode": 8292026,
+  "versionName": "22.9.3",
+  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v22.9.3/MiCoinTabv22.9.3.apk",
+  "changelog": "If you have been experiencing fast battery consumption, I do recommend to switch Off screen. This version fixes the bugs."
 }
