@@ -2,5 +2,5 @@
   "versionCode": 9202026,
   "versionName": "23.0.3",
   "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/23.0.3/MiCoinTabv23.0.3.apk",
-  "changelog": ""
+  "changelog": "Restricted Apps – Replaced the forced Home screen behavior with password-protected access. This provides a better experience for users whose Accessibility Service may be disabled after a device restart, allowing them to log in instead of being automatically redirected to the Home screen."
 }
