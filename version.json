@@ -1,6 +1,6 @@
 {
-  "versionCode": 9222026,
-  "versionName": "23.0.4",
-  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v23.0.4/MiCoinTabv23.04.apk",
-  "changelog": "I temporarily disabled (Restricted Apps with password) – Replaced the forced Home screen behavior with password-protected access. This provides a better experience for users whose Accessibility Service may be disabled after a device restart, allowing them to log in instead of being automatically redirected to the Home screen."
+  "versionCode": 9262026,
+  "versionName": "23.0.5",
+  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/v23.0.0/MiCoinTabv23.0.2.5.apk",
+  "changelog": "No need to update if you are v23.0.2. There was a bug in smart charging we decided to remove temporarly the restricted login type."
 }
