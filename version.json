@@ -1,6 +1,6 @@
 {
-  "versionCode": 9262026,
-  "versionName": "23.0.5",
-  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/23.0.3/MiCoinTabv23.0.2.5.apk",
-  "changelog": "There was a bug in smart charging we decided to remove temporarly the restricted login type. The bug identified as fixed in this new version."
+  "versionCode": 10092026,
+  "versionName": "23.0.6",
+  "apkUrl": "https://github.com/gORBKWnKRDBOKESCUJFCNP/MiCoinTabUpdates/releases/download/MiCoinTabv23.0.2.6/MiCoinTabv23.0.2.6.apk",
+  "changelog": "if you have incountered crashing the app, you may update. Disregard this update if you have a stable version."
 }
